@@ -5,3 +5,4 @@ const getRandomMessage = data => {
     return data[index];
 };
 
+console.log(getRandomMessage(data));
